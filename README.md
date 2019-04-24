@@ -1,6 +1,5 @@
 # demo_git
 Une demo de git
-test
-fromage
-andouille
 
+Test 1212
+Oui oui j'aime le brie
